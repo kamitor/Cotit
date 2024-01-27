@@ -1,5 +1,5 @@
 
-COTIT: Empowering Businesses to Thrive, Doing Well While Doing Good.
+COTIT: Empowering Businesses to Thrive, Doing Well by doing Good.
 
 Mission Statement 1:
 
