@@ -17,14 +17,14 @@ Offer data visualization tools and reports that are clear, accessible, and actio
 
 Options: 2
 
-"Our goal is to integrate ethical practices in the supply chain, ensuring business operations are environmentally responsible and contribute positively to social welfare."
+"Our mission is to lead with integrity in the supply chain, ensuring responsible practices for sustainable business growth."
 
-"Our mission is to implement practical, ethical standards in supply chain operations, prioritizing environmental sustainability and actively supporting community welfare."
+Mission Statement 3:
 
-"We are committed to leading supply chain practices with a strong ethical foundation, ensuring environmental care and direct contributions to social welfare."
+"Our mission is to empower the supply chain with the tools, knowledge, and software necessary for making informed decisions, fostering a self-regulating ecosystem through fundamental, sound business practices."
+-- 
 
-"Our vision is to be a catalyst for responsible supply chain management, with a focus on tangible environmental protection and meaningful social contributions."
-
+To equip businesses with the knowledge and tools to make informed decisions, align operations with business goals, and achieve long-term success, empowering individuals and communities.
 
 
 ## Why COTIT
