@@ -1,6 +1,6 @@
 
 
-Vision:COTIT: Unveiling the Future of Supply Chain Excellence - Where Transparency, Integrity, and Sustainability Intersect.
+Vision:Cotit: Unveiling the Future of Supply Chain Excellence - Where Transparency, Integrity, and Sustainability Intersect.
 
 Mission Statement 1:
 
@@ -27,6 +27,9 @@ Develop solutions that help businesses reduce their environmental impact, minimi
 Offer training and resources to help businesses implement responsible business practices and comply with industry standards, promoting fairness and equity.
 
 Mission Statement 3:
+
+"Our mission is to empower the supply chain with the tools, knowledge, and software necessary for making informed decisions, fostering a self-regulating ecosystem through fundamental, sound business practices."
+-- 
 
 To equip businesses with the knowledge and tools to make informed decisions, align operations with business goals, and achieve long-term success, empowering individuals and communities.
 
