@@ -38,6 +38,7 @@ frame Threats {
   * Highly competitive market
   * Regulatory changes and challenges
   * Generalized service perception
+  * Overly Accomidating: Do more than that was expected.
   * Distractions from core focus leading to delivery issues
   * Economic downturn risks
   * Challenges due to empathetic approach leading to extra work

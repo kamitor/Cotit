@@ -17,3 +17,4 @@ RiskShield Pro: Proactive risk management module for supply chain disruptions.
 SupplyChain Simulator: A simulation tool for modeling and testing supply chain scenarios.
 
 COTIT Consulting Services: Expert consulting for supply chain optimization and strategic planning.
+

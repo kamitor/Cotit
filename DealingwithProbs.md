@@ -4,6 +4,7 @@ Time Management Policies: Establish and communicate policies regarding response 
 
 Resource Allocation: Be transparent about the resources that you can allocate to each project or client. This includes manpower, technological resources, and support services. Make sure clients understand the level of resource commitment they can expect.
 
+
 Project Management Guidelines: Implement clear project management guidelines. This can involve using project management tools to outline project phases, deliverables, and deadlines. Make sure these guidelines are communicated to clients at the beginning of a project.
 
 Communication Protocols: Establish and inform clients about your communication protocols. Define how and when clients can expect to receive updates and how they can communicate with your team. This helps in setting expectations regarding the frequency and methods of communication.
