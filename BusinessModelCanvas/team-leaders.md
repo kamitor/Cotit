@@ -1,9 +1,9 @@
 # Team Leader
 
-* T0: (add name)
-* T1: (add name)
-* T2: (add name)
-* T3: (add name)
-* T4: (add name)
-* T5: (add name)
-* T6: (add name)
+* T0: Fabian
+* T1: Anthony
+* T2: Chris
+* T3: Jabir: Software Coder
+* T4: Nina
+* T5: Dita
+* T6: Jane: Sales Representative
