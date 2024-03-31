@@ -11,12 +11,6 @@ To empower retailers with actionable insights from their supply chain data, opti
 
 
 
-```
-Mission Statement 1
-
-This statement is well-aligned with the needs of retailers who are increasingly reliant on data to optimize operations. It emphasizes actionable insights, which are critical for operational efficiency, profitability, and building customer trust. The mention of fostering stability in supply chains also highlights a commitment to long-term solutions.
-```
-
 Mission Statement 2:
 
 "Our mission is to lead with integrity in the supply chain, ensuring responsible practices for sustainable business growth."
